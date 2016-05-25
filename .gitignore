@@ -1,0 +1,30 @@
+# OS dependent files
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+*~
+# Thumbnails
+._*
+# Other
+*.md.html
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.ids
+*.iws
+.idea/
+
+Solution.md
+/bin/
+
+
+#Eclipse Project Files
+bin
+target
+.settings
+.classpath
+.project
+application.properties
